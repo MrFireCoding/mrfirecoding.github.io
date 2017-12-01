@@ -4,7 +4,7 @@
 
 我們提供`C`、`C++`、`VB`程式設計線上家教、程式作業代工服務。
 
-如有任何需要，請直接聯繫我們的粉絲專頁[程式救火隊](https://www.facebook.com/mr.fire.coding/)，或是聯絡我們的email [mr.fire.coding](mr.fire.coding@gmail.com)。
+如有任何需要，請直接聯繫我們的粉絲專頁[程式救火隊](https://www.facebook.com/mr.fire.coding/)，或是聯絡我們的email [mr.fire.coding@gmail.com](mr.fire.coding@gmail.com)。
 
 - [程式設計線上家教]()
 - [程式作業代工服務]()
@@ -15,7 +15,7 @@
 
 ### 方法
 
-1. 若您需要「程式設計線上家教」，請直接私訊我們的粉絲專頁[程式救火隊](https://www.facebook.com/mr.fire.coding/)，或是聯絡我們的email [mr.fire.coding](mr.fire.coding@gmail.com)，我們會和您約時間，以及教學長度。
+1. 若您需要「程式設計線上家教」，請直接私訊我們的粉絲專頁[程式救火隊](https://www.facebook.com/mr.fire.coding/)，或是聯絡我們的email [mr.fire.coding@gmail.com](mr.fire.coding@gmail.com)，我們會和您約時間，以及教學長度。
 2. 根據教學長度，我們會按照以下計價方式和您報價。
 3. 如果您同意此次報價，請選擇您想要的付款方式，並於家教進行前付款。
 4. 付款完成後請通知我們，我們會和您確認。
@@ -41,7 +41,7 @@
 
 ### 服務
 
-1. 若您需要「程式作業代工服務」，請直接私訊我們的粉絲專頁[程式救火隊](https://www.facebook.com/mr.fire.coding/)，或是聯絡我們的email [mr.fire.coding](mr.fire.coding@gmail.com)，將您的題目告訴我們。
+1. 若您需要「程式作業代工服務」，請直接私訊我們的粉絲專頁[程式救火隊](https://www.facebook.com/mr.fire.coding/)，或是聯絡我們的email [mr.fire.coding@gmail.com](mr.fire.coding@gmail.com)，將您的題目告訴我們。
 2. 我們會於服務時間時，根據以下的計價方式向您報價。
 3. 如果您同意此次報價，請選擇您想要的付款方式，並於三日內進行付款。
 4. 付款完成後請通知我們，我們會盡速給您程式解答。
@@ -70,7 +70,7 @@
 
 ## 聯絡我們、服務時間
 
-您可以於任何時間聯絡我們的粉絲專頁[程式救火隊](https://www.facebook.com/mr.fire.coding/)，或是我們的email [mr.fire.coding](mr.fire.coding@gmail.com)，我們會於服務時間盡快回復您。
+您可以於任何時間聯絡我們的粉絲專頁[程式救火隊](https://www.facebook.com/mr.fire.coding/)，或是我們的email [mr.fire.coding@gmail.com](mr.fire.coding@gmail.com)，我們會於服務時間盡快回復您。
 
 - 星期一 19:00~22:00
 - 星期二 19:00~22:00
