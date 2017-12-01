@@ -2,7 +2,7 @@
 
 > 救程式設計！救成績！救作業！
 
-我們提供`C`、`C++`、`VB`程式設計線上家教、程式作業代工服務。
+我們提供高中、大學`C`、`C++`、`VB`程式設計線上家教、程式作業代工服務。
 
 如有任何需要，請直接聯繫我們的粉絲專頁[程式救火隊](https://www.facebook.com/mr.fire.coding/)，或是聯絡我們的email [mr.fire.coding@gmail.com](mr.fire.coding@gmail.com)。
 
